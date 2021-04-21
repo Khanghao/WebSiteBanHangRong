@@ -14,9 +14,9 @@ include 'inc/slider.php';
 					<h2>Lorem Ipsum is simply dummy text </h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>					
 					<div class="price">
-						<p>Price: <span>$500</span></p>
-						<p>Category: <span>Laptop</span></p>
-						<p>Brand:<span>Samsnumg</span></p>
+						<p>Gia: <span>$500</span></p>
+						<p>Loai: <span>Laptop</span></p>
+						<p>Hieu:<span>Samsnumg</span></p>
 					</div>
 				<div class="add-cart">
 					<form action="cart.php" method="post">
